@@ -52,3 +52,5 @@ Poetry • Songs • Creative Writing • Fiction
 
 Startup Ideas • Innovation • Venture Building
 ✨ 🦋 ✦ 🦋 ✧ 🦋 ✦ 🦋 ✨
+✦
+Journey
