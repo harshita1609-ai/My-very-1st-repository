@@ -22,3 +22,23 @@ I enjoy exploring the intersection of technology, creativity, entrepreneurship, 
 🚀 Exploring startup & venture ideas
 🏸 Playing badminton
 🌱 Learning, building and experimenting with new ideas
+⚡ What I Love Building
+        ╭───────────────╮
+        │   💡 IDEA     │
+        ╰───────┬───────╯
+                ↓
+        ╭───────────────╮
+        │   🧠 CREATE   │
+        ╰───────┬───────╯
+                ↓
+        ╭───────────────╮
+        │   💻 BUILD    │
+        ╰───────┬───────╯
+                ↓
+        ╭───────────────╮
+        │   🚀 LAUNCH   │
+        ╰───────┬───────╯
+                ↓
+        ╭───────────────╮
+        │   ✨ IMPACT   │
+        ╰───────────────╯
