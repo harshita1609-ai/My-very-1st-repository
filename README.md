@@ -45,3 +45,6 @@ I enjoy exploring the intersection of technology, creativity, entrepreneurship, 
         💻 Technology
 
 Websites • Interactive Projects • AI • Cybersecurity
+✍️ Writing
+
+Poetry • Songs • Creative Writing • Fiction
