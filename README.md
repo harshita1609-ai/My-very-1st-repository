@@ -56,3 +56,5 @@ Startup Ideas • Innovation • Venture Building
 Journey
 💻
 Building my web development skills
+🚀
+Exploring entrepreneurship & venture building
