@@ -42,7 +42,8 @@ I enjoy exploring the intersection of technology, creativity, entrepreneurship, 
         ╭───────────────╮
         │   ✨ IMPACT   │
         ╰───────────────╯
-        💻 Technology
+        💻 Technology✍️
+Writing my first novel
 
 Websites • Interactive Projects • AI • Cybersecurity
 ✍️ Writing
@@ -58,3 +59,5 @@ Journey
 Building my web development skills
 🚀
 Exploring entrepreneurship & venture building
+✍️
+Writing my first novel
