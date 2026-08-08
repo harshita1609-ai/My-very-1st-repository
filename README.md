@@ -65,3 +65,5 @@ Writing my first novel
 Playing badminton
 🎤
 Public speaking & creative expression
+🧠
+Exploring AI & cybersecurity
