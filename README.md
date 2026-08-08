@@ -42,3 +42,6 @@ I enjoy exploring the intersection of technology, creativity, entrepreneurship, 
         ╭───────────────╮
         │   ✨ IMPACT   │
         ╰───────────────╯
+        💻 Technology
+
+Websites • Interactive Projects • AI • Cybersecurity
