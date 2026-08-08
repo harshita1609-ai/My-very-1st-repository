@@ -67,3 +67,5 @@ Playing badminton
 Public speaking & creative expression
 🧠
 Exploring AI & cybersecurity
+🌱
+Constantly learning something new
