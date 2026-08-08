@@ -61,3 +61,5 @@ Building my web development skills
 Exploring entrepreneurship & venture building
 ✍️
 Writing my first novel
+🏸
+Playing badminton
