@@ -63,3 +63,5 @@ Exploring entrepreneurship & venture building
 Writing my first novel
 🏸
 Playing badminton
+🎤
+Public speaking & creative expression
