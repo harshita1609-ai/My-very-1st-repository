@@ -74,3 +74,4 @@ const harshita = { name: "Harshita Singh",
 interests: [
 "Technology",
 "Writing",
+"Entrepreneurship",
