@@ -69,3 +69,4 @@ Public speaking & creative expression
 Exploring AI & cybersecurity
 🌱
 Constantly learning something new
+🌌 A Little More About Me
