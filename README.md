@@ -77,3 +77,4 @@ interests: [
 "Entrepreneurship",
 "AI",
 "Cybersecurity",
+"Badminton"],
