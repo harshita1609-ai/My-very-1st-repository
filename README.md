@@ -73,3 +73,4 @@ Constantly learning something new
 const harshita = { name: "Harshita Singh",
 interests: [
 "Technology",
+"Writing",
