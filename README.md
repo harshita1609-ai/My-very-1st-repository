@@ -75,3 +75,4 @@ interests: [
 "Technology",
 "Writing",
 "Entrepreneurship",
+"AI",
