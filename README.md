@@ -76,3 +76,4 @@ interests: [
 "Writing",
 "Entrepreneurship",
 "AI",
+"Cybersecurity",
